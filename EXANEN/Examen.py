@@ -1,3 +1,4 @@
+#Brandon de Jesus Garza Jasso  250218
 #se realozaran votaciones en un grupo de 15 alumnos (1er lugar y 2do lugar)
 #Hugo Paco y Luis son candidatos para : --Jefe de grupo, tesorero--
 # y el tercer lugar se le daran las gracias por participar
@@ -86,5 +87,6 @@ print(f"Total votos: {suma_votos}")
 
     
         
+
 
     
